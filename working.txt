@@ -1,0 +1,23 @@
+Workflow
+
+1 Vehicle Entry:
+Upon arrival, the car approaches the entry point equipped with NFC-based infrared scanners.
+The scanner reads the vehicle's number plate and identifies the car.
+
+2 Parking Slot Allocation:
+The system generates a unique parking_slot_id for the vehicle.
+The allocated slot information is sent to the driver.
+
+3 Ticket Generation:
+An auto-generated ticket is printed at the counter for the driver to collect.
+The ticket contains details such as the parking slot and entry time.
+
+4 Automatic Parking:
+The driver follows guidance to park the car in the designated slot automatically.
+
+5 Fee Deduction:
+Upon exiting, the parking fees are calculated based on the duration of stay.
+Fees are automatically deducted from the customer's account linked to their customer ID.
+
+6 Exit:
+The vehicle exits the parking facility once the payment is confirmed.
