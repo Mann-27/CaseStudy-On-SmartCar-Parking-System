@@ -7,6 +7,24 @@
 
 
 
+   
+Centralized Database
+
+Comprehensive Data Management:
+
+All vehicle details, parking slots, and transaction records are stored in a centralized database, ensuring easy access and management.
+Real-Time Updates: The database is updated in real-time, providing accurate and current information on parking lot status and vehicle occupancy.
+
+
+
+Storage of Car Details
+
+Automated Data Entry: 
+
+NFC-based infrared scanners recognize vehicle number plates and automatically record car details, eliminating manual data entry errors.
+Secure Information: Car details are securely stored, ensuring data integrity and confidentiality.
+
+
 
 
    
